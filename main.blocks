@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="%EXfr-0kxMMo`[}S$X*Y" x="573" y="-120"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="3|c.+$832eabh)I/S7;?"><value name="TIMES"><shadow type="math_whole_number" id="e_0W@Z-ZUR!GlM?hLtkN"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="(sDe@!#S2?q)coa9=BxD"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . #
+        `</field><next><block type="device_show_leds" id="t$43Z/7xj^5jYF]2esq|"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # .
+        `</field></block></next></block></statement></block></statement></block><block type="pxt-on-start" id=")MQ2z*UTjMdq?pfS3|vq" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="FoMnF/Izvo,TZ1q;[h$Q"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_button_event" id="bFY1*IUJl|E{o5-W|5`s" x="170" y="193"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="A2=`/rs7pKd9Z,R^Swn%"><value name="text"><shadow type="text" id="joIOv;bBwa@zXq5%qNtc"><field name="TEXT">BYE</field></shadow></value></block></statement></block></xml>
